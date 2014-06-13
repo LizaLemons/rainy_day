@@ -1,4 +1,7 @@
+
+Check out this suite haiku I wrote:
+
 Today it is very rainy
 It has been very rainy for days
 It is still very rainy
-oh well. 
+oh well.
